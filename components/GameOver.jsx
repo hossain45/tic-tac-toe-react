@@ -1,4 +1,3 @@
-import React from 'react'
 import GameState from './GameState'
 
 const GameOver = ({ gameState }) => {
